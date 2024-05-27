@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Niigata-Gakujo-Authenticator",
+    "version": "1.0",
+    "description": "新潟大学学務情報システムの二段階認証を自動化します",
+    "permissions": [
+      "activeTab",
+      "storage",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+      }
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://gakujo.iess.niigata-u.ac.jp/campusweb/*"],
+        "js": ["js/jssha.min.js", "content.js"]
+      }
+    ]
+  }
+  
