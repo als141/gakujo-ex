@@ -10,16 +10,13 @@ Niigata Gakujo Authenticatorは、新潟大学学務情報システムでのGoog
 
 ## インストール方法
 
-### Chrome/Edge（ZIPファイルからインストールする方法）
+### Chrome/Edge
 
-1. [こちら](https://github.com/als141/gakujo-ex/archive/refs/heads/main.zip)からZIPファイルをダウンロードして、展開します。
-2. `chrome://extensions/` または `edge://extensions/` を開きます。
-3. 「デベロッパーモード」を有効にします。
-4. 「パッケージ化されていない拡張機能を読み込む」をクリックし、拡張機能ディレクトリを選択します。**展開したZIPファイルはフォルダが二重になっているので、一つ中に入ってるフォルダを選択してください**もしくは、ブラウザによってはダウンロードしたZIPファイルをそのまま読み込ませます。
+ChromeとMicrosoft Edgeを使用している方は[こちら](https://chromewebstore.google.com/detail/niigata-gakujo-authentica/elaeceflckjbdbbokilooliacajipfjl?hl=ja&authuser=1)からインストールしてください。
 
-### Chrome/Edge（Chrome 拡張機能ストアからインストールする方法）
+### Firefox
 
-現在ストア審査申請中です。
+Firefox及びAndroid版Firefoxは[こちら](https://addons.mozilla.org/addon/niigata-gakujo-authenticator/)からインストールしてください。
 
 ## 使用方法
 
