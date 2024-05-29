@@ -1,6 +1,6 @@
 # Niigata Gakujo Authenticator
 
-Niigata Gakujo Authenticatorは、新潟大学学務情報システムでのGoogle Authenticatorコードの入力を自動化するブラウザ拡張機能です。Google Chrome、Microsoft Edgeをサポートします。
+Niigata Gakujo Authenticatorは、新潟大学学務情報システムでのGoogle Authenticatorコードの入力を自動化するブラウザ拡張機能です。Google Chrome、Microsoft Edge、FireFoxをサポートします。
 
 ## 特徴
 
