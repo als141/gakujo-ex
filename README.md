@@ -16,7 +16,7 @@ ChromeとMicrosoft Edgeを使用している方は[こちら](https://chromewebs
 
 ### Firefox
 
-Firefox及びAndroid版Firefoxは[こちら](https://addons.mozilla.org/addon/niigata-gakujo-authenticator/)からインストールしてください。
+Firefox及びAndroid版Firefoxは[こちら](https://addons.mozilla.org/firefox/downloads/file/4295616/e07382e5601f4ec19dde-1.0.xpi)からインストールしてください。
 
 ## 使用方法
 
